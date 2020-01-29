@@ -1,2 +1,2 @@
 #!/bin/bash
-docker-compose up -d
+docker-compose -p HasuraTest up -d

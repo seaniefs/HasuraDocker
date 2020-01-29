@@ -1,2 +1,2 @@
 #!/bin/bash
-docker-compose down --volumes
+docker-compose -p HasuraTest down --volumes
